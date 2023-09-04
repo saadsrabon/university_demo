@@ -1,0 +1,14 @@
+.search_style {
+  border-radius: 4px;
+}
+/* In your CSS file, e.g., SearchBox.css */
+.search-box-large {
+  width: 550px; 
+  padding: 10px;
+  font-size: 16px; 
+}
+.worthy{
+  margin: 0 auto;
+  display: block;
+  margin-top: 10px;
+}

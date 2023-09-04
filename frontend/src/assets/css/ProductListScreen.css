@@ -1,0 +1,16 @@
+.title {
+  background-color: white;
+  padding-top: 15px;
+}
+.print {
+  font-size: 30px;
+  color: #df0c0c;
+  /* padding-bottom: 10px; */
+  padding: 2px;
+  width: 100px;
+  border: 3px solid rgb(201, 198, 198);
+  border-radius: 6px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}

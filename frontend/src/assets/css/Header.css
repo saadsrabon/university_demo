@@ -1,0 +1,11 @@
+.nav_style {
+  background-color:black;
+}
+a.logo.active.navbar-brand {
+  font-size: 40px;
+}
+.nav-link.active {
+  color: white;
+  font-size: 30px;
+}
+

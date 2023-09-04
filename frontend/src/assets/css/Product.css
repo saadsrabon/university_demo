@@ -1,0 +1,24 @@
+.img_card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.img{
+  width: 12rem;
+  object-fit: cover;
+  height: 10rem;
+}
+
+.offer {
+  width: 90px;
+  height: 37px;
+  position: absolute;
+  background: rgb(238, 231, 234);
+  color: rgb(10, 10, 10);
+  font-weight: bold;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  right: 0;
+  padding: 10px;
+}

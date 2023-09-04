@@ -1,0 +1,19 @@
+.cont {
+  background-color: white;
+  width: 100%;
+  border-radius: 8px;
+  padding-top: 25px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.input_box {
+  border: 1px solid #ced4da;
+  border-radius: 6px;
+}
+.s_title {
+  color: black;
+  padding-left: 8px;
+}
+.s_button {
+  padding: 12px 30px 12px 30px;
+  border-radius: 6px;
+}

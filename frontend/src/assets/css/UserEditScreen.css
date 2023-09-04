@@ -1,0 +1,8 @@
+.user_box {
+  border: 1px solid #ced4da;
+  border-radius: 6px;
+}
+.user_button {
+  padding: 12px 30px 12px 30px;
+  border-radius: 4px;
+}
